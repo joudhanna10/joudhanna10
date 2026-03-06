@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm **jouudhanna**, a **16-year-old developer**.
+I'm **joudhanna**, a **16-year-old developer**.
 
 🐍 Python programmer
 🌐 Web developer
